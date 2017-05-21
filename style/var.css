@@ -1,0 +1,9 @@
+:root {
+  --animation-duration: .3s;
+  --primary-color: #3367d6;
+  --text-on-primary: #fafafa;
+  --secondary-color: ##4285f4;
+  --text-on-secondary: #fff;
+
+  --header-height: 48px;
+}

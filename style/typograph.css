@@ -1,0 +1,65 @@
+h1, h2, h3, h4, h5, h6 {
+    overflow: hidden;
+    padding: 0;
+    text-overflow: ellipsis
+}
+
+h1, .devsite-landing-row h2, .devsite-landing-row-large-headings .devsite-landing-row-item-description>a>h3, .devsite-landing-row-large-headings .devsite-landing-row-item-description>h3, .devsite-products-alphabet-letter-heading {
+    color: #757575;
+    font: 300 34px/40px Roboto, sans-serif;
+    letter-spacing: -.01em;
+    margin: 40px 0 20px
+}
+
+h2, .devsite-landing-row h3 {
+    border-bottom: 1px solid #ebebeb;
+    font: 300 24px/32px Roboto, sans-serif;
+    letter-spacing: -.01em;
+    margin: 40px 0 20px;
+    padding-bottom: 3px
+}
+
+.exw-control+h2.showalways {
+    margin: 44px 0 20px;
+    padding-bottom: 7px
+}
+
+h3, #embedded-explorer .com-google-api-explorer-client-embedded-EmbeddedView_EmbeddedViewUiBinderImpl_GenCss_style-all h3 {
+    font: 400 20px/32px Roboto, sans-serif;
+    margin: 32px 0 16px
+}
+
+.devsite-landing-row-item-no-image h3, .devsite-landing-row h4 {
+    font: 400 20px/32px Roboto, sans-serif;
+    margin: 32px 0 12px;
+    padding: 0
+}
+
+.exw-control+h3.showalways, .exw-control+h4.showalways {
+    margin: 36px 0 20px
+}
+
+h4 {
+    font: 400 18px/32px Roboto, sans-serif;
+    margin: 32px 0 16px
+}
+
+h5 {
+    font: 700 16px/24px Roboto, sans-serif;
+    margin: 32px 0 16px
+}
+
+h6 {
+    font: 500 16px/24px Roboto, sans-serif;
+    margin: 32px 0 16px
+}
+
+h1+h1, h1+h2, h1+h3, h1+h4, h1+h5, h1+h6, h2+h1, h2+h2, h2+h3, h2+h4, h2+h5, h2+h6, h3+h1, h3+h2, h3+h3, h3+h4, h3+h5, h3+h6, h4+h1, h4+h2, h4+h3, h4+h4, h4+h5, h4+h6, h5+h1, h5+h2, h5+h3, h5+h4, h5+h5, h5+h6, h6+h1, h6+h2, h6+h3, h6+h4, h6+h5, h6+h6, h1+dl>dt:first-child, h2+dl>dt:first-child, h3+dl>dt:first-child, h4+dl>dt:first-child, h5+dl>dt:first-child, h6+dl>dt:first-child {
+    margin-top: 0
+}
+
+@media screen and (max-width: 720px) {
+    h1, .devsite-landing-row h2, .devsite-products-alphabet-letter-heading {
+        font: 300 24px/32px Roboto, sans-serif
+    }
+}
