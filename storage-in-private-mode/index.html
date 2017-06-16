@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>test localStorage in safari private mode</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
+<body>
+    <button class="setValue">SET</button>
+    <hr>
+    <button class="getValue">GET</button>
+    <script>
+        // var $ = document.querySelector;
+        var q = document.querySelector;
+        document.querySelector('.setValue').onclick = function () {
+            try {
+                var time = new Date().getTime();
+                localStorage.setItem('time', time);
+                alert('set '+time);
+            } catch (error) {
+                alert(JSON.stringify(error));
+            }
+        }
+        document.querySelector('.getValue').onclick = function () {
+            var content = localStorage.getItem('time', new Date().getTime());
+            alert('got '+content);
+        }
+    </script>
+</body>
+
+</html>

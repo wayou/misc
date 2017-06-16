@@ -1,0 +1,64 @@
+/* latin-ext */
+@font-face {
+  font-family: 'Helvetica Neue';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Helvetica Neue'), local('HelveticaNeue'), url(https://fonts.gstatic.com/l/font?kit=Lx1xfUTR4qFjwg0Z_pb909kz8PWCvW9QOy6NPaSI5XQ&skey=4ad46dd97873f7d7&v=v8) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Helvetica Neue';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Helvetica Neue'), local('HelveticaNeue'), url(https://fonts.gstatic.com/l/font?kit=Lx1xfUTR4qFjwg0Z_pb900vvcJfQgOQSx4gAglesi1Y&skey=4ad46dd97873f7d7&v=v8) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Helvetica Neue';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Helvetica Neue Bold'), local('HelveticaNeue-Bold'), url(https://fonts.gstatic.com/l/font?kit=r3oQQBWBLofdqMg7Xagtpg3-hQCt4rxr9Cj9IT1IMEU&skey=ba59c4fdb0ab3b35&v=v8) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Helvetica Neue';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Helvetica Neue Bold'), local('HelveticaNeue-Bold'), url(https://fonts.gstatic.com/l/font?kit=r3oQQBWBLofdqMg7XagtppGeeVaBm2oL0I4O-SzWtoc&skey=ba59c4fdb0ab3b35&v=v8) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Helvetica Neue';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Helvetica Neue Italic'), local('HelveticaNeue-Italic'), url(https://fonts.gstatic.com/l/font?kit=ongwVZ0sNVLQxlHMqPO4fgvO00d2Dc0eNzk-GcDx-Mo&skey=b6fcfb44a0513c&v=v8) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Helvetica Neue';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Helvetica Neue Italic'), local('HelveticaNeue-Italic'), url(https://fonts.gstatic.com/l/font?kit=ongwVZ0sNVLQxlHMqPO4fi5lILvbp7RPCkgd8J1ZgkA&skey=b6fcfb44a0513c&v=v8) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Helvetica Neue';
+  font-style: italic;
+  font-weight: 700;
+  src: local('Helvetica Neue Bold Italic'), local('HelveticaNeue-BoldItalic'), url(https://fonts.gstatic.com/l/font?kit=HP4lbRtuSyhhHn9FVwP6BVIP365W1UOnY93-PRa0oSX2Ot9t5h1GRSTIE78Whtoh&skey=91381930180d3fa1&v=v8) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Helvetica Neue';
+  font-style: italic;
+  font-weight: 700;
+  src: local('Helvetica Neue Bold Italic'), local('HelveticaNeue-BoldItalic'), url(https://fonts.gstatic.com/l/font?kit=HP4lbRtuSyhhHn9FVwP6Ba5lhApP4kC1ODBvZM-Y8DI&skey=91381930180d3fa1&v=v8) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}

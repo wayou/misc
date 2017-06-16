@@ -70,7 +70,8 @@ sup {
 
 dd,ol,ul {
     margin: 0;
-    padding-left: 40px
+    padding-left: 40px;
+    /* padding: 0; */
 }
 
 td>dl>dd,td>ol,td>ul {
